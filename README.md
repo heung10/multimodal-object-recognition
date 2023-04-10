@@ -1,1 +1,1 @@
-# Multisensory-object-recognition-project
+# multisensory-object-recognition-project
